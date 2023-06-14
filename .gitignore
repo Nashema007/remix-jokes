@@ -5,5 +5,3 @@ node_modules
 /public/build
 .env
 /prisma/dev.db
-/public/.DS_Store
-/public/fonts/.DS_Store
